@@ -18,4 +18,8 @@ mhmmmmmmm
 
 hello
 
+<<<<<<< HEAD
 this is to test true merging
+=======
+checking for fast-forward merging
+>>>>>>> master_mod
