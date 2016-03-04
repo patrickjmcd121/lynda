@@ -1,6 +1,3 @@
-
-This is my first file I edited.
-
 This is my first file I edited.
 
 Hoping conflict has been resolved
