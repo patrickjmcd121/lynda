@@ -25,4 +25,9 @@ this is to test true merging
 =======
 >>>>>>> master_mod
 checking for fast-forward merging
+<<<<<<< HEAD
+>>>>>>> master_mod
+=======
+
+here we go again
 >>>>>>> master_mod
