@@ -2,6 +2,12 @@ This is first line for second.txt
 
 Text added to test out -am
 
+
 Solving merging conflicts
 
 Causing merging conflicts
+
+Solving merging conflicts
+
+Causing merging conflicts
+
