@@ -17,3 +17,5 @@ hello, is it me you're looking for
 mhmmmmmmm
 
 hello
+
+checking for fast-forward merging
