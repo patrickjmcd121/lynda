@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is my first file I edited.
 
 Deleted for mumbo jumbo
@@ -21,5 +22,7 @@ hello
 <<<<<<< HEAD
 this is to test true merging
 =======
+=======
+>>>>>>> master_mod
 checking for fast-forward merging
 >>>>>>> master_mod
