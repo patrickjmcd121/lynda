@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Merging file
+=======
+Merging file
+
+Adding a new line of text
+>>>>>>> merging
