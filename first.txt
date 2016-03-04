@@ -2,6 +2,10 @@ Starting on a new text file.
 
 This text was written in the second_branch first.txt
 
+<<<<<<< HEAD
 This text was written in the third_branch first.txt
 
 This is the text used to create a true merge
+=======
+This text was written in the third_branch first.txt
+>>>>>>> third_branch
