@@ -1,28 +1,3 @@
 This is my first file I edited.
 
-Deleted for mumbo jumbo
-
-and again
-
-text for a different branch
-
-change
-
-dreams can come true
-
-alright buddy
-
-hello, is it me you're looking for
-
-mhmmmmmmm
-
-hello
-
-
-this is to test true merging
-
- master_mod
-checking for fast-forward merging
-
-here we go again
->>>>>>> master_mod
+Hoping conflict has been resolved
