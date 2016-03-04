@@ -1,3 +1,5 @@
 Starting on a new text file.
 
 Content for second_branch
+
+Used for the merging
