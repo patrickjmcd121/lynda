@@ -1,7 +1,0 @@
-Starting on a new text file.
-
-Content for second_branch
-
-Used for the merging
-
-Checked out second branch for doing a fast-forward merge

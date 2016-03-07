@@ -1,9 +1,0 @@
-This is first line for second.txt
-
-Text added to test out -am
-
-Solving merging conflicts
-
-Adding this line to sort out merging conflicts
-
-Adding this line to sort out merging conflicts
