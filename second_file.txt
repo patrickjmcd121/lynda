@@ -5,3 +5,5 @@ Text added to test out -am
 Solving merging conflicts
 
 Adding this line to sort out merging conflicts
+
+Adding this line to sort out merging conflicts
